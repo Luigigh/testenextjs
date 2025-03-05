@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-gray-100">
-      <div className="bg-amber-700 p-6 rounded-lg shadow-md w-full max-w-md">
+      <div className="bg-blue-300 p-6 rounded-lg shadow-md w-full max-w-md">
         <h1 className="text-2xl font-bold mb-4 text-center">Gerenciar Usuários</h1>
 
         {/* Formulário de Adição */}
